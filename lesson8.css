@@ -1,0 +1,134 @@
+body{
+  background-color: black;
+}
+.input{
+  background-color: white;
+  width: 190px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.input-email{
+  margin-top: 5px;
+}
+
+.thanks{
+  background-color: white;
+  width: 300px;
+  margin-top: 20px;
+  padding-left: 5px;
+}
+.page-t{
+  display: inline-block;
+  width: 500px;
+  vertical-align: middle;
+  width: 200px;
+}
+
+.sign-up{
+  background-color: white;
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  width: 335px;
+}
+.first-name{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  width: 125px;
+}
+.firstname{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  width: 125px;
+}
+.email-name{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  width: 288px;
+  margin-top: 10px;
+}
+.button-name{
+  background-color: rgb(47, 127, 231);
+  border: none;
+  color: white;
+  padding-bottom: 14px;
+  padding-top: 14px;
+  border-radius: 7px;
+  width: 320px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.uber-request{
+  background-color: white;
+  font-family: Arial;
+  padding-left: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 300px;
+}
+.request{
+  font-size: 28px;
+  font-weight: bold;
+}
+.input-location{
+  display: block;
+  background-color: rgb(234, 228, 228);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 250px;
+}
+.input-destination{
+  display: block;
+  background-color: rgb(234, 228, 228);
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 250px;
+}
+.request-button{
+  background-color: black;
+  border: none;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.schedule-button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(234, 228, 228);
+  border: none;
+}
